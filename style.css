@@ -32,11 +32,11 @@ header {
 }
 
 .bottom a:link {
-    color: #FDE5B4;
+    color: rgb(120, 120, 120);
 }
 
 .bottom a:hover {
-    color: rgb(255, 203, 165);
+    color: #FFA7A6;
 }
 
 .topnav input[type=text] {
