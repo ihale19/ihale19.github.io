@@ -1,10 +1,17 @@
 header {
   background-color: rgb(255, 203, 165);
-  boarder-color: #d9ecd0;
   padding: 20px;
   text-align: left;
   font-size: 45px;
   color: white;
+}
+
+footer {
+    background color: rgb(255, 203, 165);
+    padding: 20px;
+    text-align: left;
+    font-size: 45px;
+    color: white;
 }
 
 body{font-color: rgb(120, 120, 120);
