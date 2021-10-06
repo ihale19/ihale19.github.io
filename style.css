@@ -31,6 +31,14 @@ header {
   color: white;
 }
 
+.bottom a.link {
+    color: #FDE5B4;
+}
+
+.bottom a.hover {
+    color: rgb(255, 203, 165);
+}
+
 .topnav input[type=text] {
   float: right;
   padding: 6px;
