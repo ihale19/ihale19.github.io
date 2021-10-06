@@ -31,11 +31,11 @@ header {
   color: white;
 }
 
-.bottom a.link {
+.bottom a:link {
     color: #FDE5B4;
 }
 
-.bottom a.hover {
+.bottom a:hover {
     color: rgb(255, 203, 165);
 }
 
