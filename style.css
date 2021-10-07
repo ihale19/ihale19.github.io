@@ -5,7 +5,6 @@ header {
   text-align: left;
   font-size: 25px;
   color: white;
-  text-transform: uppercase;
 }
 
 .topnav {
@@ -81,7 +80,6 @@ table {
 }
 
 body {
-    padding: 10px;
     font-family: Helvetica, monospace;
     color: rgb(120, 120, 120);
 }
