@@ -81,7 +81,10 @@ table {
 }
 
 body {
-    padding: 10px;
     font-family: Helvetica, monospace;
     color: rgb(120, 120, 120);
+}
+
+.image {
+    padding: 10px;
 }
