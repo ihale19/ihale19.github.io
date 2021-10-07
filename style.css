@@ -11,6 +11,10 @@ header {
   background-color: #FDE5B4;
 }
 
+.topnav {
+  display: flex;
+}
+
 .topnav a {
   float: left;
   display: block;
