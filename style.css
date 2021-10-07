@@ -79,3 +79,8 @@ header {
 table {
   border: 10px solid #FFA7A6;
 }
+
+body {
+    font-family: Helvetica Neue, monospace;
+    color: rgb(120, 120, 120);
+}
