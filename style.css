@@ -64,6 +64,10 @@ header {
   color: white;
 }
 
+.bottom {
+    text-decoration: none;
+}
+
 .bottom a:visited {
   color: white;
 }
