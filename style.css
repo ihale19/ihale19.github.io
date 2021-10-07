@@ -65,7 +65,7 @@ header {
 }
 
 .bottom a:visited {
-  color: rgb(120, 120, 120);
+  color: white;
 }
 
 .bottom a:link {
@@ -73,7 +73,7 @@ header {
 }
 
 .bottom a:hover {
-  color: #FFA7A6;
+  color: #FF9899;
 }
 
 table {
